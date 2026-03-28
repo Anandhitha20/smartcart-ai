@@ -44,16 +44,16 @@ When a user views or selects a product, the backend fetches similar products fro
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![alt text](image.png)
+![Home](screenshots/home.png)
 
 ### 🛒 Cart Page
-![alt text](image-1.png)
+![Cart](screenshots/cart.png)
 
 ### 📦 Orders Page
-![alt text](image-2.png)
+![Orders](screenshots/orders.png)
 
-### ➕ Add Product
-![alt text](image-3.png)
+### 📱 Product Details
+![Product](screenshots/product.png)
 
 ---
 
