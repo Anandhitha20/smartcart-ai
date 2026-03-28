@@ -64,20 +64,27 @@ This improves user experience by helping users discover related items.
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/Anandhitha20/smartcart-ai.git
+
 cd smartcart-ai
 
 ### 2️⃣ Backend setup
 
 cd backend
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python manage.py runserver
 
 ### 3️⃣ Frontend setup
 
 cd frontend
+
 npm install
+
 npm run dev
 
 
