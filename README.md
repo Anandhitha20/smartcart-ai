@@ -1,4 +1,4 @@
-# 🛒 SmartCart AI
+# 🛒 SmartCart 
 
 An AI-powered full-stack e-commerce web application built using React and Django REST Framework.
 
